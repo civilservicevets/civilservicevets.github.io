@@ -1,4 +1,3 @@
-/* Set default styles for body, h1, h2, and p elements */
 body {
   height: 100%;
   display: table-cell;
@@ -32,6 +31,16 @@ h2 {
   letter-spacing: 0.01em;
 }
 
+
+h2 {
+  margin-top: 40px;
+  margin-bottom: 50px;
+  font-family: 'Lucida Console', Monaco, monospace;
+  font-size: 34px;
+  line-height: 42px;
+  letter-spacing: 0.01em;
+}
+
 h3 {
   margin-top: 40px;
   margin-bottom: 35px;
@@ -46,7 +55,6 @@ p {
   margin-bottom: 30px;
 }
 
-/* Set styles for the list of links */
 ul {
   font-size: 20px;
   line-height: 35px;
@@ -66,5 +74,5 @@ a {
 }
 
 a:hover {
-  color: #005983;
+  color: #005f92;
 }
