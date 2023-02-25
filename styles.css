@@ -1,5 +1,7 @@
 /* Base styles */
 
+@-ms-viewport{ width: device-width; }
+
 html {
  display: flex;
  justify-content: center;
