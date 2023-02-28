@@ -34,9 +34,9 @@ body {
   display: table-cell;
   vertical-align: middle;
   padding-top: 50px;
-  padding-bottom: 70px !important;
-  padding-left: 100px;
-  padding-right: 100px;
+  padding-bottom: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
   max-width: 850px;
   font-family: 'Palatino Linotype', Palatino, 'Book Antiqua', serif;
   font-size: 1.00rem;
