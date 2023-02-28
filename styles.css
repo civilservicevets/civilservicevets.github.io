@@ -44,6 +44,13 @@ body {
   margin: 0;
 }}
 
+@font-face {
+  font-family: 'Arial Black';
+  src: url('/arial-black.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+}
+
 @media screen and (min-width: 700px) {
 h1 {
   font-family: 'Arial Black', Gadget, sans-serif;
