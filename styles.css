@@ -34,7 +34,7 @@ body {
   display: table-cell;
   vertical-align: middle;
   padding-top: 50px;
-  padding-bottom: 50px;
+  padding-bottom: 65px;
   padding-left: 50px;
   padding-right: 50px;
   max-width: 850px;
@@ -162,7 +162,7 @@ p {
   line-height: 1.3rem;
   letter-spacing: 0.1em;
   margin-top: 40px;
-  margin-bottom: 60px;
+  margin-bottom: 80px;
 }}
 
 .small-site-title a:hover {
